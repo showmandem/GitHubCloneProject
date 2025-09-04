@@ -2,4 +2,4 @@ Practice creating branches for feature development, merging branches, and resolv
 Modification in the main branch.
 Modification in feature-greeting branch.
 Modification in feature-greeting branch.
-
+Modification in the main branch.
